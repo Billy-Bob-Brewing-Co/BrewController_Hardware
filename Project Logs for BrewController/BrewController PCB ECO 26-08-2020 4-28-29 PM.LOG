@@ -1,0 +1,96 @@
+Removed Member From Class: ClassName=Designator Member=D1
+Removed Member From Class: ClassName=Designator Member=D2
+Removed Member From Class: ClassName=Designator Member=K1
+Removed Member From Class: ClassName=Designator Member=K2
+Removed Member From Class: ClassName=Designator Member=Q1
+Removed Member From Class: ClassName=Designator Member=Q2
+Removed Member From Class: ClassName=Designator Member=R2
+Removed Member From Class: ClassName=Designator Member=R3
+Removed Member From Class: ClassName=Designator Member=R4
+Removed Member From Class: ClassName=Designator Member=R5
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C6
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C7
+Change Component Designator: OldDesignator=C6 NewDesignator=C3
+Change Component Designator: OldDesignator=C7 NewDesignator=C4
+Change Component Designator: OldDesignator=CON2 NewDesignator=CON4
+Change Component Designator: OldDesignator=CON3 NewDesignator=CON5
+Change Component Designator: OldDesignator=CON4 NewDesignator=CON3
+Change Component Designator: OldDesignator=CON5 NewDesignator=CON2
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R1
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetCON2_1 New Net Name=NetCON4_1
+Change Net Name : Old Net Name=NetCON3_1 New Net Name=NetCON5_1
+Change Net Name : Old Net Name=NetCON4_2 New Net Name=NetCON2_2
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD3_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetLED1_1 New Net Name=NetLED2_1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLED1_1
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_1
+Added Class: Name=C1_Nets
+Added Class: Name=C2_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C5_Nets
+Added Class: Name=C6_Nets
+Added Class: Name=C7_Nets
+Added Class: Name=C8_Nets
+Added Class: Name=C9_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=CON1_Nets
+Added Class: Name=CON2_Nets
+Added Class: Name=CON3_Nets
+Added Class: Name=CON4_Nets
+Added Class: Name=CON5_Nets
+Added Class: Name=D1_Nets
+Added Class: Name=D2_Nets
+Added Class: Name=D3_Nets
+Added Class: Name=D4_Nets
+Added Class: Name=D5_Nets
+Added Class: Name=J1_Nets
+Added Class: Name=J2_Nets
+Added Class: Name=K1_Nets
+Added Class: Name=K2_Nets
+Added Class: Name=L1_Nets
+Added Class: Name=LED1_Nets
+Added Class: Name=LED2_Nets
+Added Class: Name=Q1_Nets
+Added Class: Name=Q2_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_Nets
+Added Class: Name=R4_Nets
+Added Class: Name=R5_Nets
+Added Class: Name=R6_Nets
+Added Class: Name=R7_Nets
+Added Class: Name=R8_Nets
+Added Class: Name=R9_Nets
+Added Class: Name=S1_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=U2_Nets
+Added Class: Name=U3_Nets
+Added Class: Name=X1_Nets
+Added Member To Class: ClassName=Designator Member=Component C8 Cap 0.1uF/50V 0805 X7R (CL21B104MBCNNNC)
+Added Member To Class: ClassName=Designator Member=Component C9 Cap 0.1uF/50V 0805 X7R (CL21B104MBCNNNC)
+Added Member To Class: ClassName=Designator Member=Component C10 Cap 22uF/16V 0805 X5R (CL21A226MOCLRNC)
+Added Member To Class: ClassName=Designator Member=Component J1 10Pos 1.27mm Keyed (3220-10-0100-00)
+Added Member To Class: ClassName=Designator Member=Component J2 6Pos 1.27mm Unkeyed (20021111-00006T4LF)
+Added Member To Class: ClassName=Designator Member=Component U3 ESP32-WROOM-32D
+Added Room: Name=Designator
+Added Room: Name=TopLevel

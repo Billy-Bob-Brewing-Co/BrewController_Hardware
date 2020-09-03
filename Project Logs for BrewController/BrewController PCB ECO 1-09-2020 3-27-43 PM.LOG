@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=+5V Pin=C4-2
+Removed Pin From Net: NetName=+5V Pin=C5-2
+Removed Pin From Net: NetName=+5V Pin=L1-2
+Removed Pin From Net: NetName=+5V Pin=LED1-2
+Removed Pin From Net: NetName=+5V Pin=U1-1
+Removed Member From Class: ClassName=C4_Nets Member=+5V
+Removed Member From Class: ClassName=C5_Nets Member=+5V
+Removed Member From Class: ClassName=L1_Nets Member=+5V
+Removed Member From Class: ClassName=LED1_Nets Member=+5V
+Removed Member From Class: ClassName=U1_Nets Member=+5V
+Added Pin To Net: NetName=+3V3 Pin=C4-2
+Added Pin To Net: NetName=+3V3 Pin=C5-2
+Added Pin To Net: NetName=+3V3 Pin=L1-2
+Added Pin To Net: NetName=+3V3 Pin=LED1-2
+Added Pin To Net: NetName=+3V3 Pin=U1-1
+Added Member To Class: ClassName=C4_Nets Member=Wire +3V3
+Added Member To Class: ClassName=C5_Nets Member=Wire +3V3
+Added Member To Class: ClassName=L1_Nets Member=Wire +3V3
+Added Member To Class: ClassName=LED1_Nets Member=Wire +3V3
+Added Member To Class: ClassName=U1_Nets Member=Wire +3V3
