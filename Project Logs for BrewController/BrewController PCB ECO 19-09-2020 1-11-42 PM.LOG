@@ -1,0 +1,158 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=12V_RECT Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=12V_RECT Pin=C2-2
+Removed Pin From Net: NetName=NetCON1_2 Pin=CON2-2
+Removed Pin From Net: NetName=12V_RECT Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R2-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R4-2
+Removed Pin From Net: NetName=NetD3_2 Pin=RLY2-1
+Removed Pin From Net: NetName=240V_L Pin=RLY2-3
+Removed Pin From Net: NetName=NetCON5_1 Pin=RLY2-4
+Removed Pin From Net: NetName=NetCON5_1 Pin=RLY2-5
+Removed Pin From Net: NetName=240V_L Pin=RLY2-6
+Removed Pin From Net: NetName=12V_RECT Pin=RLY2-8
+Removed Pin From Net: NetName=240V_N Pin=X1-1
+Removed Pin From Net: NetName=240V_L Pin=X1-5
+Removed Member From Class: ClassName=C6_Nets Member=12V_RECT
+Removed Member From Class: ClassName=D2_Nets Member=12V_RECT
+Removed Member From Class: ClassName=D3_Nets Member=12V_RECT
+Removed Member From Class: ClassName=RLY1_Nets Member=12V_RECT
+Removed Member From Class: ClassName=RLY2_Nets Member=12V_RECT
+Removed Member From Class: ClassName=U1_Nets Member=12V_RECT
+Removed Member From Class: ClassName=CON2_Nets Member=NetCON1_2
+Removed Member From Class: ClassName=R3_Nets Member=NetR2_2
+Removed Member From Class: ClassName=U2_Nets Member=NetR2_2
+Removed Member From Class: ClassName=R5_Nets Member=NetR4_1
+Removed Member From Class: ClassName=U2_Nets Member=NetR4_1
+Change Component Comment : Designator=RLY1 Old Comment=G2RL-1A-E DC12 New Comment=G2RL-1A-E DC5
+Added Component: Designator=CON?(FCI-10118194-0001LF-5_V)
+Add component (AddParameter): Name = "Body Orientation"; Value = "RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/26945/getdatasheetpartid-418619-26945695.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 10/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "RCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.fci.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Surface Mount Device, Body 8.05 x 5.53 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "10118194-0001LF-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MicroUSBTypeB"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1609X50X30NL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW06034K70FKTA"; VariantName = "[No Variations]"
+Added Component: Designator=RLY?(FP-G2RL-1A-E_DC12-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "80mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "62.5O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Power Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "RELAY GEN PURPOSE SPST 16A 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "G2RL-1A-E DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Power Relay 5VDC 16A SPST-NO (( 29mm 12.7mm 15.7mm)) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/g2rl-1a-e-dc5-omron-797358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Added Component: Designator=RLY?(FP-G2RL-1A-E_DC12-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Relay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "80mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "400mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "62.5O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Type"; Value = "Non-Latching"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Electromechanical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Power Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "RELAY GEN PURPOSE SPST 16A 5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "15.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Omron"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "G2RL-1A-E DC5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Power Relay 5VDC 16A SPST-NO (( 29mm 12.7mm 15.7mm)) Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/g2rl-1a-e-dc5-omron-797358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Switching Current"; Value = "16A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "SPST-NO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_RECT Pin=CON1-1
+Added Pin To Net: NetName=12V_RECT Pin=CON2-1
+Added Pin To Net: NetName=12V_RECT Pin=CON?-1
+Added Pin To Net: NetName=GND Pin=CON?-2
+Added Pin To Net: NetName=GND Pin=CON?-3
+Added Pin To Net: NetName=GND Pin=CON?-4
+Added Pin To Net: NetName=GND Pin=CON?-5
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Pin To Net: NetName=12V_RECT Pin=R6-1
+Added Pin To Net: NetName=12V_RECT Pin=R?-1
+Added Pin To Net: NetName=NetD3_2 Pin=RLY?-1
+Added Pin To Net: NetName=240V_L Pin=RLY?-3
+Added Pin To Net: NetName=NetCON5_1 Pin=RLY?-4
+Added Pin To Net: NetName=NetCON5_1 Pin=RLY?-5
+Added Pin To Net: NetName=240V_L Pin=RLY?-6
+Added Pin To Net: NetName=12V_RECT Pin=RLY?-8
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-27
+Added Pin To Net: NetName=NetQ2_1 Pin=U2-28
+Change Net Name : Old Net Name=12V_RECT New Net Name=+5V
+Added Pin To Net: NetName=NetCON2_2 Pin=CON2-2
+Added Pin To Net: NetName=NetCON2_2 Pin=R?-2
+Added Pin To Net: NetName=NetCON2_2 Pin=U2-30
+Added Net: Name=NetCON2_2
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-6
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-7
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-8
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-9
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-10
+Added Pin To Net: NetName=USB_SHLD Pin=CON?-11
+Added Net: Name=USB_SHLD
+Change Class Name : Old Net Name=RLY2_Nets New Net Name=RLY?_Nets
+Added Class: Name=CON?_Nets
+Added Class: Name=R?_Nets
+Added Member To Class: ClassName=C6_Nets Member=Wire +5V
+Added Member To Class: ClassName=D2_Nets Member=Wire +5V
+Added Member To Class: ClassName=D3_Nets Member=Wire +5V
+Added Member To Class: ClassName=R9_Nets Member=Wire +5V
+Added Member To Class: ClassName=R10_Nets Member=Wire +5V
+Added Member To Class: ClassName=RLY1_Nets Member=Wire +5V
+Added Member To Class: ClassName=RLY?_Nets Member=Wire +5V
+Added Member To Class: ClassName=U1_Nets Member=Wire +5V
+Added Member To Class: ClassName=CON2_Nets Member=Wire NetCON2_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetCON2_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetQ1_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetQ1_1
+Added Member To Class: ClassName=R5_Nets Member=Wire NetQ2_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetQ2_1

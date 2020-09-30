@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=12V_RECT Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=12V_RECT Pin=C2-2
+Removed Pin From Net: NetName=NetCON1_2 Pin=CON2-2
+Removed Pin From Net: NetName=12V_RECT Pin=D1-1
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=NetQ1_1 Pin=R2-1
+Removed Pin From Net: NetName=NetQ2_1 Pin=R4-2
+Removed Pin From Net: NetName=240V_N Pin=X1-1
+Removed Pin From Net: NetName=240V_L Pin=X1-5
+Removed Member From Class: ClassName=C6_Nets Member=12V_RECT
+Removed Member From Class: ClassName=D2_Nets Member=12V_RECT
+Removed Member From Class: ClassName=D3_Nets Member=12V_RECT
+Removed Member From Class: ClassName=RLY1_Nets Member=12V_RECT
+Removed Member From Class: ClassName=RLY2_Nets Member=12V_RECT
+Removed Member From Class: ClassName=U1_Nets Member=12V_RECT
+Removed Member From Class: ClassName=CON2_Nets Member=NetCON1_2
+Removed Member From Class: ClassName=R2_Nets Member=NetQ1_1
+Removed Member From Class: ClassName=R2_Nets Member=NetR2_2
+Removed Member From Class: ClassName=R3_Nets Member=NetR2_2
+Removed Member From Class: ClassName=U2_Nets Member=NetR2_2
+Removed Member From Class: ClassName=R5_Nets Member=NetR4_1
+Removed Member From Class: ClassName=U2_Nets Member=NetR4_1
+Change Component Footprint: Designator=R2 Old Footprint=RESC1609X50X30LL10T20 New Footprint=RESC1609X50X30NL10T20
+Change Component Comment : Designator=R2 Old Comment=CRCW0603100RJNEB New Comment=CRCW06034K70FKTA
+Change Component Comment : Designator=RLY1 Old Comment=G2RL-1A-E DC12 New Comment=G2RL-1A-E DC5
+Change Component Comment : Designator=RLY2 Old Comment=G2RL-1A-E DC12 New Comment=G2RL-1A-E DC5
+Change Managed Component Library Link : Designator=R2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=275E928F-72AF-4F53-A008-E95E4131816F New ItemGUID=40ED1516-8523-4E83-A44B-273154D37633 Old RevisionGUID=04626603-6149-4778-A64D-796E69817BCB New RevisionGUID=A388B112-018C-4166-AF80-565CA3BAB03D
+Change component parameters: Designator = "R2" ("R2"); Footprint = "RESC1609X50X30LL10T20"; UniqueID = "\GETFLBGO" ("\GETFLBGO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW06034K70FKTA"; VariantName = "[No Variations]"
+Added Component: Designator=CON6(FCI-10118194-0001LF-5_V)
+Add component (AddParameter): Name = "Body Orientation"; Value = "RightAngle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/26945/getdatasheetpartid-418619-26945695.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. A, 10/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "RCP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol FCI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.fci.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "5-Pin Surface Mount Device, Body 8.05 x 5.53 mm, Pitch 0.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "10118194-0001LF-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Method"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MicroUSBTypeB"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V_RECT Pin=CON1-1
+Added Pin To Net: NetName=12V_RECT Pin=CON2-1
+Added Pin To Net: NetName=12V_RECT Pin=CON6-1
+Added Pin To Net: NetName=GND Pin=CON6-2
+Added Pin To Net: NetName=GND Pin=CON6-3
+Added Pin To Net: NetName=GND Pin=CON6-4
+Added Pin To Net: NetName=GND Pin=CON6-5
+Added Pin To Net: NetName=12V_RECT Pin=R2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Pin To Net: NetName=12V_RECT Pin=R6-1
+Added Pin To Net: NetName=NetQ1_1 Pin=U2-27
+Added Pin To Net: NetName=NetQ2_1 Pin=U2-28
+Change Net Name : Old Net Name=12V_RECT New Net Name=+5V
+Added Pin To Net: NetName=NetCON2_2 Pin=CON2-2
+Added Pin To Net: NetName=NetCON2_2 Pin=R2-2
+Added Pin To Net: NetName=NetCON2_2 Pin=U2-30
+Added Net: Name=NetCON2_2
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-6
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-7
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-8
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-9
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-10
+Added Pin To Net: NetName=USB_SHLD Pin=CON6-11
+Added Net: Name=USB_SHLD
+Added Class: Name=CON6_Nets
+Added Member To Class: ClassName=C6_Nets Member=Wire +5V
+Added Member To Class: ClassName=D2_Nets Member=Wire +5V
+Added Member To Class: ClassName=D3_Nets Member=Wire +5V
+Added Member To Class: ClassName=R2_Nets Member=Wire +5V
+Added Member To Class: ClassName=R9_Nets Member=Wire +5V
+Added Member To Class: ClassName=R10_Nets Member=Wire +5V
+Added Member To Class: ClassName=RLY1_Nets Member=Wire +5V
+Added Member To Class: ClassName=RLY2_Nets Member=Wire +5V
+Added Member To Class: ClassName=U1_Nets Member=Wire +5V
+Added Member To Class: ClassName=CON2_Nets Member=Wire NetCON2_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetCON2_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetCON2_2
+Added Member To Class: ClassName=R3_Nets Member=Wire NetQ1_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetQ1_1
+Added Member To Class: ClassName=R5_Nets Member=Wire NetQ2_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetQ2_1
