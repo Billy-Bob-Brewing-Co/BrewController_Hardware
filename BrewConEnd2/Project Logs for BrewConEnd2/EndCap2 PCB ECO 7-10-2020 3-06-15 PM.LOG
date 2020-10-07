@@ -1,0 +1,6 @@
+Change Component Comment : Designator=CON1 Old Comment=Fridge New Comment=Heatmat
+Change Component Comment : Designator=CON2 Old Comment=HeatMat New Comment=Fridge
+Change component parameters: Designator = "CON1" ("CON1"); Footprint = "RA-02"; UniqueID = "\YOMGNRVB" ("\YOMGNRVB")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA-02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "CON2" ("CON2"); Footprint = "RA-02"; UniqueID = "\CRKVHMNG" ("\CRKVHMNG")
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RA-02"; VariantName = "[No Variations]"
