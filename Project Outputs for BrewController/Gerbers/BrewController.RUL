@@ -1,0 +1,7 @@
+DRC Rules Export File for PCB: C:\Users\williamr\Desktop\BrewController-20201007T205542Z-001\BrewController\BrewController.PcbDoc
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=2.95
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=Clearance|RuleName=240V_PlaneClearance|Scope=Board|Minimum=125.98

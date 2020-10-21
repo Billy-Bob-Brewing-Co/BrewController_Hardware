@@ -1,0 +1,59 @@
+Altium Designer Pick and Place Locations
+F:\Users\Rooke\Documents\Bill\home work\UNI\2020\Spring\SDS\BrewController\Project Outputs for BrewController\Gerbers\Pick Place for BrewController.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       07/10/20
+Time:       15:32
+Revision:   91bb1c8d43002f8688e3a10e9778defa57dd5f75
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"F1","0218002.MXP","TopLayer","FP-0218002_MXP-MFG","0.0000","0.0000","90","FUSE GLASS 2A 250VAC 5X20MM"
+"S1","Right Angle SMT Edge Switch","TopLayer","TL4110_Edge_Connector","66.1025","130.1000","90","RIGHT ANGLE SMT TACT SWITCH 2.0M"
+"R11","CRCW060310K0JNEB","TopLayer","RESC1609X50X30LL10T20","70.7000","130.1000","90","Res Thick Film 0603 10K Ohm 5% 0.1W(1/10W) ±200ppm/C Molded SMD Automotive Paper T/R"
+"F4","0ZCJ0050FF2G","TopLayer","FP-0ZCJ0050FF2G-MFG","73.5000","124.1000","90","PTC RESET FUSE 8V 500MA 1206"
+"C8","Cap 0.1uF/50V 0805 X7R (CL21B104MBCNNNC)","TopLayer","C0805","68.9000","130.1000","270","Cap Ceramic 0.1uF 50V X7R 20% SMD 0805 125C Paper T/R"
+"F2","01000020Z","TopLayer","FP-0100-MFG","75.2500","82.2500","90","FUSE CLIP CARTRIDGE 600V 20A PCB"
+"RLY2","G2RL-1A-E DC5","TopLayer","FP-G2RL-1A-E_DC12-MFG","96.4000","97.0000","360","RELAY GEN PURPOSE SPST 16A 5V"
+"R7","CRCW06034K70FKTA","TopLayer","RESC1609X50X30NL10T20","109.5000","141.0000","360","0603 4K7"
+"CON6","10118193-0001LF","TopLayer","FCI-10118193-0001LF-5_V","69.3375","121.5000","270","Micro USB B Type Receptacle, -55 to 85 degC, 5-Pin SMD, RoHS, Tape and Reel"
+"R8","MCT06030E1002BP500","TopLayer","FP-MCT0603-MFG","76.2000","129.4000","90","RES SMD 100 OHM 1% 1/8W 0603"
+"R4","CRCW0603680RFKEA","TopLayer","RESC1609X50X30ML10T20","86.0000","107.9000","0","0603 680R"
+"R2","CRCW0603680RFKEA","TopLayer","RESC1609X50X30ML10T20","85.6000","84.0000","0","0603 680R"
+"R10","CRCW0805120RFKEA","TopLayer","FP-CRCW0805-e3-IPC_C","105.0000","134.5000","180","RES Thick Film, 120O, 1%, 0.125W, 100ppm/°C, 0805"
+"R9","CRCW0805120RFKEA","TopLayer","FP-CRCW0805-e3-IPC_C","105.0000","138.5000","180","RES Thick Film, 120O, 1%, 0.125W, 100ppm/°C, 0805"
+"R6","CRCW06034K70FKTA","TopLayer","RESC1609X50X30NL10T20","109.5000","123.0000","360","0603 4K7"
+"LED5","150120SS75000","TopLayer","1206_A","100.5000","134.5000","180","SMD mono-color Chip LED, WL-SMCW, Super Red"
+"LED4","156120YS75300","TopLayer","1206__CYLINDRICAL-_Reverse_Use","100.5000","138.5000","180","SMD mono-color reverse mount waterclear Chip LED, WL-SMRW, Yellow"
+"LED3","150120VS75000","TopLayer","1206_A","86.0000","105.4000","180","SMD mono-color Chip LED, WL-SMCW, Bright Green"
+"LED2","150120VS75000","TopLayer","1206_A","85.6000","82.0000","180","SMD mono-color Chip LED, WL-SMCW, Bright Green"
+"F3","01000020Z","TopLayer","FP-0100-MFG","75.2500","68.9500","270","FUSE CLIP CARTRIDGE 600V 20A PCB"
+"U2","ESP32-WROOM-32D","TopLayer","*MODULE_ESP32-WROOM-32D_ESP32-WROOM-32D(Primary)","81.5450","144.6000","90","Wi-Fi/BT BLE Module ESP32-D0WD, SPI Flash, UART, P"
+"U1","3.3V SW Reg (AP63203WU-7)","TopLayer","TSOT26","77.0000","121.5000","360","AP63203 Series 3.3 V 2 A SMT Fixed Low IQ Synchronous Buck - TSOT-26"
+"RLY1","G2RL-1A-E DC5","TopLayer","FP-G2RL-1A-E_DC12-MFG","96.4000","74.0000","360","RELAY GEN PURPOSE SPST 16A 5V"
+"R5","CRGCQ0603J1M0","TopLayer","FP-CRGCQ0603-IPC_C","98.0000","121.0000","180","CRGCQ0603 1MO 5% ±100ppm/°C 75V"
+"R3","CRGCQ0603J1M0","TopLayer","FP-CRGCQ0603-IPC_C","93.5000","121.0000","180","CRGCQ0603 1MO 5% ±100ppm/°C 75V"
+"R1","CRCW0603220RFKEB","TopLayer","FP-CRCW0603-e3-MFG","88.5000","116.7500","270","RES Thick Film, 220O, 1%, 0.1W, 100ppm/°C, 0603"
+"Q2","BSS138P,215","TopLayer","NXP-SOT23_N","98.0000","117.0000","270","N-Channel Trench MOSFET, 60 V, 0.36 A, -55 to 150 degC, 3-Pin SOT23, Tape and Reel"
+"Q1","BSS138P,215","TopLayer","NXP-SOT23_N","93.5000","116.9500","270","N-Channel Trench MOSFET, 60 V, 0.36 A, -55 to 150 degC, 3-Pin SOT23, Tape and Reel"
+"LED1","150120VS75000","TopLayer","1206_A","88.5000","121.5000","90","SMD mono-color Chip LED, WL-SMCW, Bright Green"
+"L1","IHLP2020BZER4R7M11","TopLayer","FP-IHLP-2020BZ-FP_1_905x2-MFG","83.0000","123.0000","360","Fixed Inductors Commercial Low DCR Series 4.7uH 3.2A 81.3mO 20%"
+"J2","10Pos 1.27mm Keyed (3220-10-0100-00)","TopLayer","10pos_1.27_Keyed","100.7300","145.3650","360","CONN HEADER VERT 10POS 1.27MM"
+"J1","6Pos 1.27mm Unkeyed (20021111-00006T4LF)","TopLayer","6Pos_1.27_Keyed","100.8300","150.7650","180","CONN HEADER 6POS UNSHD VERT T/H"
+"D3","S1AB-13-F","TopLayer","DIOD-S1AB-13-F-2_V","92.5000","105.9000","180","1.0 A Surface Mount Glass Passivated Rectifier, SMB, -65 to 150 degC, Tape and Reel"
+"D2","S1AB-13-F","TopLayer","DIOD-S1AB-13-F-2_V","92.6000","82.5000","180","1.0 A Surface Mount Glass Passivated Rectifier, SMB, -65 to 150 degC, Tape and Reel"
+"CON5","Fridge","TopLayer","691313410003","114.7000","102.5001","90","Serie 3134 - 7.62mm Close Horizontal PCB Header WR-TBL, 3 pin"
+"CON4","Heatpad","TopLayer","691313410003","114.7000","79.0002","90","Serie 3134 - 7.62mm Close Horizontal PCB Header WR-TBL, 3 pin"
+"CON3","691313410003","TopLayer","691313410003","75.5000","98.3999","270","Serie 3134 - 7.62mm Close Horizontal PCB Header WR-TBL, 3 pin"
+"CON2","BeerTemp","TopLayer","691313510003","114.7000","141.0000","90","Serie 313 - 5.08mm Close Horizontal PCB Header WR-TBL, 3 pin"
+"CON1","AmbTemp","TopLayer","691313510003","114.7000","123.1000","90","Serie 313 - 5.08mm Close Horizontal PCB Header WR-TBL, 3 pin"
+"C7","Cap 0.1uF/50V 0805 X7R (CL21B104MBCNNNC)","TopLayer","C0805","78.2000","129.4000","270","Cap Ceramic 0.1uF 50V X7R 20% SMD 0805 125C Paper T/R"
+"C6","CL21A226MOCLRNC","TopLayer","FP-CL21-IPC_C","73.2000","130.9000","360","CL21 Series 0805 22uF 16V ±20% Tolerance X5R Multilayer Ceramic Chip Capacitor"
+"C5","CL21B104MBCNNNC","TopLayer","FP-CL21-IPC_B","73.2000","128.9000","360","CL21 Series 0805 100nF 50V ±20% Tolerance X7R Multilayer Ceramic Chip Capacitor"
+"C4","CL32B106KAJNNNE","TopLayer","FP-CL32-IPC_C","74.0000","118.0000","360","Cap Ceramic 10uF 25V X7R ±10% SMD 1210 +125°C Embossed T/R"
+"C3","C3225X7R1C226M250AC","TopLayer","CAPC3225X280X20LL40","80.5000","114.5000","360","Multilayer Ceramic Capacitor, 22 uF, 16 V, -55 to 125 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"C2","C3225X7R1C226M250AC","TopLayer","CAPC3225X280X20LL40","80.5000","118.0000","360","Multilayer Ceramic Capacitor, 22 uF, 16 V, -55 to 125 degC, 2-Pin SMD, RoHS, Tape and Reel"
+"C1","GRM188R71H104KA93D","TopLayer","CAPC1608X90X35ML10T15","77.5000","124.5000","180","Chip Capacitor, 0.1 uF, +/- 10%, 50 V, -55 to 125 degC, 0603 (1608 Metric), RoHS, Tape and Reel"

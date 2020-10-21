@@ -1,0 +1,13 @@
+Output: NC Drill
+Type  : NC Drill
+From  : PCB Document [EndCap1.PcbDoc]
+   Generated File[EndCap1.TXT]
+   Generated File[EndCap1.DRL]
+   Generated File[EndCap1.LDP]
+   Generated File[EndCap1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 6:20:23 PM On 8/10/2020

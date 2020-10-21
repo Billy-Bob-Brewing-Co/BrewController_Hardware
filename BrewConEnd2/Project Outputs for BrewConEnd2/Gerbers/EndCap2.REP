@@ -1,0 +1,216 @@
+*************************************************************
+FileName = EndCap2.GBR
+AutoAperture = True
+*************************************************************
+Generating : Top Solder
+      File : EndCap2.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : EndCap2.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : M2BoardOutline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : EndCap2.GD1
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D10
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : EndCap2.GG1
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D10
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : EndCap2.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : M2BoardOutline
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : EndCap2.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : EndCap2.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : M2BoardOutline
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : M2BoardOutline
+      File : EndCap2.GM2
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : M2BoardOutline
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : EndCap2.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : EndCap2.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : EndCap2.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : M2BoardOutline
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : EndCap2.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : EndCap2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : M2BoardOutline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+*************************************************************
+

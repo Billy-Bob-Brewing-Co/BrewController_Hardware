@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BrewController.PcbDoc   8/10/2020  8:05:43 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BrewController-RoundHoles.TXT
+ASCII SlotHoles File : BrewController-SlotHoles.TXT
+EIA File   : BrewController.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             12        PTH        0.79inch (20.18mm)
+T2      20mil (0.5mm)                                             Round             34        PTH        8.78inch (223.05mm)
+T3      20mil (0.5mm)                                             Slot              2         PTH        0.58inch (14.64mm)
+T4      28mil (0.7mm)                                             Round             16        PTH        0.98inch (24.97mm)
+T5      51mil (1.3mm)                                             Round             16        PTH        6.04inch (153.44mm)
+T6      63mil (1.6mm)                                             Round             15        PTH        8.25inch (209.53mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              95
+
+Total Processing Time (hh:mm:ss) : 00:00:00

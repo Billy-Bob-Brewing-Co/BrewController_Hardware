@@ -1,0 +1,9 @@
+Output: Report Board Stack
+Type  : Report Board Stack
+From  : PCB Document [BrewController.PcbDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 8:06:06 AM On 8/10/2020
